@@ -4,24 +4,24 @@
 
 Download and Visualize Computer Usage Data from RescueTime
 
-### Dependencies
+## Dependencies
 
 Use of this project requires Python 3 with the following dependencies installed:
   - pandas
   - numpy
   - matplotlib
 
-### File Descriptions
+## File Descriptions
 
 - credentials-sample.json - json file to store your RescueTime API key
 - rescuetimedownloader.py - Python file to download your RescueTime data
 - rescuetime_data_analysis.ipynb - Jupyter notebook to visualize your RescueTime data
 
-### How to Download and Analyze your RescueTime Data.
+## How to Download and Analyze your RescueTime Data.
 
 *** If you don’t already have a RescueTime account. Create one today and then come back tomorrow or at another time so you have some data to download. (https://www.rescuetime.com/get_rescuetime)
 
-### Setup
+#### Setup
 
 1. Download the 3 files included in this repo:
   - credentials-sample.json 
@@ -37,15 +37,15 @@ Use of this project requires Python 3 with the following dependencies installed:
   - rescuetimedownloader.py
   - rescuetime_data_analysis.ipynb
 
-### Download 
+#### Download 
 
 5. Run the python script from the command line. This will download and organize the data for use in analysis.
 
-### Analyze
+#### Analyze
 
 6. Open the jupyter notebook and create visualizations.
 
-### Sample Visualizations
+## Sample Visualizations
 
 ![viz1](images/viz1.png)
 ![viz2](images/viz2.png)
@@ -57,7 +57,7 @@ Use of this project requires Python 3 with the following dependencies installed:
 
 
 
-### Acknowledgements
+## Acknowledgements
 
 https://github.com/markwk/qs_ledger/tree/master/rescuetime
 

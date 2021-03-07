@@ -26,4 +26,4 @@ score. Unlike the dashboard, this pulse also includes mobile time.
 
 ## Thanks
 
-- Data download code was based off of https://github.com/libertyequalitydata/RescueTime
+- Forked contribution by [Miles Cranmer](https://github.com/MilesCranmer/rescue_time_statusbar) in case helpful for someone else using RescueTime to utilize and build on. 
